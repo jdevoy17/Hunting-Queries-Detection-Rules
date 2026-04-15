@@ -1,103 +1,74 @@
 domain,category
-# Social Networking
 facebook.com,Social Networking
 instagram.com,Social Networking
 tiktok.com,Social Networking
 twitter.com,Social Networking
 reddit.com,Social Networking
 snapchat.com,Social Networking
-
-# Streaming Media
 youtube.com,Streaming Media
 netflix.com,Streaming Media
 hulu.com,Streaming Media
 disneyplus.com,Streaming Media
 spotify.com,Streaming Media
 twitch.tv,Streaming Media
-
-# File Sharing & Storage
 dropbox.com,File Sharing & Storage
 drive.google.com,File Sharing & Storage
 onedrive.live.com,File Sharing & Storage
 box.com,File Sharing & Storage
 mega.nz,File Sharing & Storage
 wetransfer.com,File Sharing & Storage
-
-# Instant Messaging & VoIP
 discord.com,Instant Messaging & VoIP
 slack.com,Instant Messaging & VoIP
 teams.microsoft.com,Instant Messaging & VoIP
 zoom.us,Instant Messaging & VoIP
 telegram.org,Instant Messaging & VoIP
 whatsapp.com,Instant Messaging & VoIP
-
-# Games
 steampowered.com,Games
 epicgames.com,Games
 battle.net,Games
 roblox.com,Games
 playstation.com,Games
 xboxlive.com,Games
-
-# Cryptocurrency
 coinbase.com,Cryptocurrency
 binance.com,Cryptocurrency
 kraken.com,Cryptocurrency
 crypto.com,Cryptocurrency
-
-# Adult Content
 pornhub.com,Adult Content
 xvideos.com,Adult Content
 xhamster.com,Adult Content
 redtube.com,Adult Content
 xnxx.com,Adult Content
-
-# Gambling
 bet365.com,Gambling
 pokerstars.com,Gambling
 fanduel.com,Gambling
 draftkings.com,Gambling
 williamhill.com,Gambling
-
-# Proxy & VPN
 protonvpn.com,Proxy & VPN
 nordvpn.com,Proxy & VPN
 expressvpn.com,Proxy & VPN
 surfshark.com,Proxy & VPN
-
-# Anonymizers
 torproject.org,Anonymizers
 onion.ly,Anonymizers
-
-# News & Media
 cnn.com,News & Media
 bbc.com,News & Media
 nytimes.com,News & Media
 foxnews.com,News & Media
 reuters.com,News & Media
-
-# Shopping
 amazon.com,Shopping
 ebay.com,Shopping
 walmart.com,Shopping
 target.com,Shopping
 bestbuy.com,Shopping
-
-# Business & Economy
 microsoft.com,Business & Economy
 office.com,Business & Economy
 salesforce.com,Business & Economy
 workday.com,Business & Economy
 servicenow.com,Business & Economy
-
-# Information Technology
 github.com,Information Technology
 gitlab.com,Information Technology
 azure.com,Information Technology
 aws.amazon.com,Information Technology
 cloud.google.com,Information Technology
-
-# Search Engines & Portals
 google.com,Search Engines & Portals
 bing.com,Search Engines & Portals
 yahoo.com,Search Engines & Portals
